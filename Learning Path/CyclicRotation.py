@@ -14,7 +14,7 @@ def CyclicRotation(A, K):
         return A
 pass
 
-# testing
+# testing 
 print (CyclicRotation([3, 8, 9, 7, 6], 1))
 print (CyclicRotation([3, 8, 9, 7, 6], 2))
 print (CyclicRotation([3, 8, 9, 7, 6], 3))
