@@ -14,6 +14,6 @@ def BinaryGap(N):
     return returnVal
 pass
 
-# testing 
+# testing   
 print(BinaryGap(15))
 print(BinaryGap(152))
