@@ -16,6 +16,6 @@ def OddOccurrencesInArray(A):
     
     pass
 
-
+# testing
 print(OddOccurrencesInArray([0,2,40,10,23,10,40,2,0]))
 print(OddOccurrencesInArray([0,3,6,9,9,9,9,3,6,0,0,0,11]))
