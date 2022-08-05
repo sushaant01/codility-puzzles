@@ -1,4 +1,4 @@
-# this solution is working on my local machine , but getting memory error when submitting using codility giving me 83% accuracy
+# this solution is working on my local machine , but getting memory error when submitting using codility giving me 83%
 def PermCheck(A):
     # write your code in Python 3.6
     arrayCount = 0 
