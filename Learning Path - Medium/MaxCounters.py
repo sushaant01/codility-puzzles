@@ -1,7 +1,6 @@
 def MaxCounters(N,A):
     arrayMaxCounter = [0] * N
     MaxCounter = 0
-    finalAddition = 0
     lastMaxCounter = 0
     for i in A:
         if i > N :
