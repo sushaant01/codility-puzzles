@@ -47,8 +47,3 @@ class MaxCounters{
     }
 }
 
-
-class Solution {
-
-
-}
